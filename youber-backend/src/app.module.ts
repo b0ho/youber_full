@@ -13,3 +13,4 @@ import { RestaurantsModule } from './restaurants/restaurants.module';
   controllers: [],
   providers: [],
 })
+export class AppModule {}
